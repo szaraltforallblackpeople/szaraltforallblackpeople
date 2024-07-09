@@ -1,4 +1,4 @@
-ELO SKURWYSYNE1337 
+ELO SKURWYSYNY1337 
 
 ### I Worked for
 <a href="https://www.bahu.pro" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/726348408134172672/2c887029721afc9c7c1212a89ff1a746.webp?size=240" width="36" height="36" alt="Git" /></a>
